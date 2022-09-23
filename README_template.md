@@ -23,11 +23,13 @@ https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub/h-1b-empl
 * Understanding Our H-1B Employer Data Hub<br/>
 https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub/understanding-our-h-1b-employer-data-hub
 
+  Excerpts:
+  
   "Data entry and petitioner errors may result in a missing and/or erroneous employer name, tax ID, state, city, or ZIP code in our electronic systems."
 
-"We anticipate updating the H-1B Employer Data Hub quarterly and providing downloadable data files. For example, data for the first quarter (October-December) of a fiscal year will be provided in April of the fiscal year."
+  "We anticipate updating the H-1B Employer Data Hub quarterly and providing downloadable data files. For example, data for the first quarter (October-December) of a fiscal year will be provided in April of the fiscal year."
 
-"NAICS code 99 means the industry is unknown. Any petition that had a blank code was assigned as 99 as well."
+  "NAICS code 99 means the industry is unknown. Any petition that had a blank code was assigned as 99 as well."
 
 
 * Form I-129 PDF
