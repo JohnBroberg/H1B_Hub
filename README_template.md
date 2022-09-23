@@ -32,12 +32,12 @@ https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub/understan
   "NAICS code 99 means the industry is unknown. Any petition that had a blank code was assigned as 99 as well."
 
 
-* Form I-129 PDF
+* Form I-129 PDF: Petition for a Nonimmigrant Worker <br/>
 https://www.uscis.gov/sites/default/files/document/forms/i-129.pdf
 
   Excerpts:
   
   "State indicated in the mailing address of the employer and is not necessarily the beneficiary(ies) work location"
 
-* Tableau Public: JBroberg
+* Sample data visualization on Tableau Public <br/>
 https://public.tableau.com/app/profile/john.broberg#!/
