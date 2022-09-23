@@ -1,6 +1,6 @@
 # H1B_Hub
 
-Extract H-1B Employer Data Hub data from USCIS.gov. 
+Extract H-1B Employer Data Hub data from USCIS.gov. <br/>
 Transform into a single tidy compressed CSV file for Load.
 
 ## Getting Started
@@ -20,7 +20,7 @@ You will need
 * USCIS: H-1B Employer Data Hub Files<br/>
 https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub/h-1b-employer-data-hub-files
 
-* Understanding Our H-1B Employer Data Hub
+* Understanding Our H-1B Employer Data Hub<br/>
 https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub/understanding-our-h-1b-employer-data-hub
 
 "Data entry and petitioner errors may result in a missing and/or erroneous employer name, tax ID, state, city, or ZIP code in our electronic systems."
