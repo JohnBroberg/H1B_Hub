@@ -1,8 +1,8 @@
 # H1B_Hub
-
-Extract H-1B Employer Data Hub data from USCIS.gov. <br/>
-Transform into a single tidy compressed CSV file for Load.
-
+<ol>
+<li>Extract H-1B Employer Data Hub data from USCIS.gov.<li/>
+<li>Transform into a single tidy compressed CSV file for Load.<li/>
+<ol/>
 ## Getting Started
 
 Run H1B_Hub.ipynb in a Jupyter Notebook with Python 3 or newer.
