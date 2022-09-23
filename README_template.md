@@ -35,7 +35,9 @@ https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub/understan
 * Form I-129 PDF
 https://www.uscis.gov/sites/default/files/document/forms/i-129.pdf
 
-"State indicated in the mailing address of the employer and is not necessarily the beneficiary(ies) work location"
+  Excerpts:
+  
+  "State indicated in the mailing address of the employer and is not necessarily the beneficiary(ies) work location"
 
 * Tableau Public: JBroberg
 https://public.tableau.com/app/profile/john.broberg#!/
