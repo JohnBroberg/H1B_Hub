@@ -39,6 +39,9 @@ https://www.uscis.gov/sites/default/files/document/forms/i-129.pdf
   Excerpts:
   
   "State indicated in the mailing address of the employer and is not necessarily the beneficiary(ies) work location"
+  
+* North American Industry Classification System - NAICS <br/>
+https://www.census.gov/naics/
 
 * Sample data visualization on Tableau Public <br/>
 https://public.tableau.com/app/profile/john.broberg#!/
