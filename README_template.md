@@ -5,14 +5,14 @@ Transform into a single tidy compressed CSV file for Load.
 
 ## Getting Started
 
-Run "H1B Hub.ipynb" in a Jupyter Notebook with Python 3 or newer.
+Run H1B_Hub.ipynb in a Jupyter Notebook with Python 3 or newer.
 
 ### Prerequisites
 
 You will need
 
 * Web browser
-* Jupyter Notebooks (or another way to run Python)
+* Jupyter Notebooks (or another way to run Python 3 or newer)
 
 
 ## Additional Documentation and Acknowledgments
