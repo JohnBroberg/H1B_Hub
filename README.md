@@ -14,6 +14,7 @@ You will need
 
 * Web browser
 * Jupyter Notebooks (or another way to run Python 3 or newer)
+* pandas library: https://pandas.pydata.org/
 
 
 ## Additional Documentation and Acknowledgments
