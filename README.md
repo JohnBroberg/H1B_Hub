@@ -1,7 +1,7 @@
 # H1B_Hub
 <ol>
 <li>Extract H-1B Employer Data Hub data from USCIS.gov.</li>
-<li>Transform into a single tidy compressed CSV file (located in h1b_hub.zip) for Load.</li>
+<li>Transform into a single tidy compressed CSV file (located in h1b_hub_data.zip) for Load.</li>
 </ol>
 
 ## Getting Started
